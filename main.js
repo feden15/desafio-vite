@@ -1,0 +1,1 @@
+import './style.css' /* hace que se vean los estilos aplicados */
